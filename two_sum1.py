@@ -6,7 +6,6 @@ def twoSum(l,target):
             return [m[diff],i]
         m[n] = i    
 
-
 l = [1,2,3,4]
 target = 6
 
